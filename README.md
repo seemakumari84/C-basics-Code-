@@ -1,2 +1,2 @@
-# Java-by-Seema
-This Repository contains java basics
+# C-by-Seema
+This Repository contains c language basics
